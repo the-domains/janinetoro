@@ -1,0 +1,28 @@
+name: janinetoro
+favicon: null
+layout_spectrum: 0.3920883846003562
+typography_spectrum: 0.4443520668428391
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7387342557776719
+  lightness: 0.8230683025904
+  saturation: 0.9645837775897235
+  rhythmicContrast: 0.8004926363937557
+purpose: []
